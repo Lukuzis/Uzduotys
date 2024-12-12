@@ -27,12 +27,21 @@ sulipinti, reikia vandens kuris pilnai užšąla per 1 h prie -1 laipsnio celcij
 laikosi -6 laipsniai celcijaus iki vidurdienio, o po to visą laiką yra -4,5 laipsniai celcijaus?
 
 
-Grudžio 5
+Gruodžio 5
 
 Miške stovi trys sniego kalnai. Kasdien vienas iš šių kalnų paaukštėja dvigubai, kitas paaukštėja du metrus, o trečias pažemėja tiek kokia buvo vidutinė temparatūra tą dieną. Tačiau kasdien kiekvienas kalnas vis atlik-
 davo kitą vaidmenį, bet kas antrą dieną atlikdavo savo pradinį vaidmenį, o kitas dienas vis darydavo paeiliui kaitaliodami kitų kalnų didėjimo būdus (vaidmenis). Lapkričio paskutinę dieną visi trys kalnai buvo 0,1 mm
 aukščio, o temperatūra buvo 5 laipsniai celcijaus. Nuo gruodžio pirmos dienos iki penkioliktos visi kalnai darė savo paaukštėjimo etapus, o temperatūra kasdien krito dvigubai daugiau, negu jos modulis. Kuris kalnas bus
 aukščiausias gruodžio 16 dieną?
+
+
+Gruodžio 6
+
+Varvekliai pradeda formuotis kai koks lašelis sušąla, o paskiau kai vėl atšyla, ant to dar nespėjusio ištirpti leduko užeina dar vandens, tada kai vėl užšąla, jau varveklis būna padidėjęs ir taip toliau. Prie 1 laipsnio
+celcijaus 1 centimetro ilgio varveklis pilnai ištirpsta per 1 minutę, tačiau dar pribėga 2 centimetrai vandens, o prie -1 laipsnio celcijaus 1 centimetro pribėgęs vanduo užšąla per 1 minutę ir papildomai padvigubėja
+ilgis. Pradžioje ant 7 metrų ilgio namo stogo krašto yra kas 20 centimetrų pasiskirsčiusių varveklių, kurių 20% yra dvigubai ilgesni, negu likusieji. Varvekliai atsirado 5 h ryto ir temperatūra buvo 0 laipsnių, tada nuo 
+6 h ryto temperatūra pradėjo kas minutę kisti +2, paskui dar po minutės pakito -3, tada dar minutei praėjus +2 ir taip toliau kartojosi 20 minučių. 7 h ryto visų varveklių ilgių suma yra 4682022,912 metrai. Kokio ilgio
+buvo mažesni varvekliai 5 h ryto?
 
 
 
@@ -43,3 +52,4 @@ Uždavinių atsakymai:
 3. 78 milimetrai
 4. Apie 9 h
 5. Pirmas
+6. 0,15 milimetrų
